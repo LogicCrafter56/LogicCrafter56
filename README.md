@@ -3,8 +3,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=220&section=header&text=Ryan%20Webster&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20PHP%20%E2%80%A2%20Laravel%20%E2%80%A2%20JavaScript%20%E2%80%A2%20Python&descAlignY=58&descSize=18" />
 
 <!-- ====================== ABOUT ME ====================== -->
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
-
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding gif" />
 php<?php
 
