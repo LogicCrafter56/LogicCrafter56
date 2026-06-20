@@ -5,7 +5,7 @@
 <!-- ====================== ABOUT ME ====================== -->
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding gif" />
 
-php<?php
+php
 
 class Developer extends Human
 {
@@ -26,7 +26,7 @@ class Developer extends Human
         return ["Laravel", "React", "Vue", "Django", "FastAPI", "Docker"];
     }
 }
-?>
+
 
 🔭 I’m a full-stack developer specializing in PHP / Laravel on the backend and modern JavaScript on the frontend.
 🐍 I also build robust APIs and data services with Python (Django, FastAPI, Flask).
