@@ -146,48 +146,6 @@ FrameworkWhat it powers🟩 DjangoBatteries-included framework — ORM, admin pa
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
 </p>
 
-<!-- ====================== GITHUB STATS ====================== -->
-📊 GitHub Statistics
-
-<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LogicCrafter56&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8E2DE2&icon_color=4A00E0" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LogicCrafter56&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8E2DE2&langs_count=8" />
-</div>
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=LogicCrafter56&theme=tokyonight&hide_border=true&background=0D1117&ring=8E2DE2&fire=4A00E0&currStreakLabel=8E2DE2" alt="GitHub Streak" />
-</div>
-<!-- ====================== ACTIVITY GRAPH ====================== -->
-<div align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=LogicCrafter56&theme=tokyo-night&bg_color=0D1117&color=8E2DE2&line=4A00E0&point=ffffff&hide_border=true" alt="activity graph" />
-</div>
-<!-- ====================== TROPHIES ====================== -->
-🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=LogicCrafter56&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies" />
-</div>
-
-<!-- ====================== CONNECT ====================== -->
-🤝 Connect With Me
-
-<div align="center">
-<a href="https://github.com/LogicCrafter56">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/Portfolio-8E2DE2?style=for-the-badge&logo=aboutdotme&logoColor=white" />
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/Twitter%2FX-000000?style=for-the-badge&logo=x&logoColor=white" />
-</a>
-</div>
-
 <!-- ====================== QUOTE ====================== -->
 <div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev quote" />
