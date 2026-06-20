@@ -138,7 +138,5 @@ FrameworkWhat it powers🟩 DjangoBatteries-included framework — ORM, admin pa
 </div>
 <!-- ====================== FOOTER ====================== -->
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=120&section=footer&text=Thanks%20for%20visiting!%20%E2%9C%A8&fontSize=22&fontColor=ffffff&animation=twinkling" />
-⭐️ From LogicCrafter56 — Crafting logic, one commit at a time.
-
+⭐️ From LogicCrafter — Crafting logic, one commit at a time.
 </div>
