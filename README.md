@@ -5,27 +5,7 @@
 <!-- ====================== ABOUT ME ====================== -->
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding gif" />
 
-php
 
-class Developer extends Human
-{
-    public string $name = "Ryan Webster";
-    public string $alias = "LogicCrafter56";
-    public string $role = "Full-Stack Developer";
-
-    public array $languages = ["PHP", "JavaScript", "Python", "TypeScript", "SQL"];
-    public array $architectures = ["MVC", "REST", "Microservices", "DDD", "SOLID"];
-
-    public function currentFocus(): string
-    {
-        return "Building scalable web apps & clean, maintainable code ✨";
-    }
-
-    public function dailyDrivers(): array
-    {
-        return ["Laravel", "React", "Vue", "Django", "FastAPI", "Docker"];
-    }
-}
 
 
 🔭 I’m a full-stack developer specializing in PHP / Laravel on the backend and modern JavaScript on the frontend.
