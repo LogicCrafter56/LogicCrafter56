@@ -1,18 +1,6 @@
 <!-- ====================== ANIMATED HEADER BANNER ====================== -->
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=220&section=header&text=Ryan%20Webster&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20PHP%20%E2%80%A2%20Laravel%20%E2%80%A2%20JavaScript%20%E2%80%A2%20Python&descAlignY=58&descSize=18" />
-<!-- ====================== TYPING ANIMATION ====================== -->
-<a href="https://github.com/LogicCrafter56">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=8E2DE2&center=true&vCenter=true&width=700&lines=Hi+there+%F0%9F%91%8B+I'm+Ryan+(LogicCrafter56);Full-Stack+Developer+%F0%9F%92%BB;PHP+%26+Laravel+Craftsman+%F0%9F%90%98;JavaScript+%26+Modern+Frameworks+%E2%9A%A1;Python+Backend+Engineer+%F0%9F%90%8D;I+turn+coffee+into+clean+code+%E2%98%95" alt="Typing SVG" />
-</a>
-<!-- ====================== PROFILE BADGES ====================== -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=LogicCrafter56&label=Profile%20Views&color=8E2DE2&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/LogicCrafter56?label=Followers&style=for-the-badge&color=4A00E0&logo=github" alt="followers" />
-  <img src="https://img.shields.io/badge/Focus-Full--Stack-success?style=for-the-badge&color=8E2DE2" alt="focus" />
-  <img src="https://img.shields.io/badge/Open%20to-Work-brightgreen?style=for-the-badge" alt="open to work" />
-</p>
-</div>
 
 <!-- ====================== ABOUT ME ====================== -->
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
