@@ -25,7 +25,7 @@ class Developer extends Human
         return ["Laravel", "React", "Vue", "Django", "FastAPI", "Docker"];
     }
 }
-
+?>
 
 🔭 I’m a full-stack developer specializing in PHP / Laravel on the backend and modern JavaScript on the frontend.
 🐍 I also build robust APIs and data services with Python (Django, FastAPI, Flask).
